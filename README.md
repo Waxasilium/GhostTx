@@ -14,6 +14,6 @@ GhostTx — это Python-утилита для отслеживания вхо�
 ## 🛠 Установка
 
 ```bash
-git clone https://github.com/yourusername/GhostTx.git
+git clone https://github.com/Waxasilium/GhostTx.git
 cd GhostTx
 pip install -r requirements.txt
